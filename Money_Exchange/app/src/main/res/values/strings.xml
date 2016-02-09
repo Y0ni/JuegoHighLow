@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Money_Exchange</string>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>MXN</item>
+        <item>EUR</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+</resources>
